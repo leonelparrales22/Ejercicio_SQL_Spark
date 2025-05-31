@@ -5,7 +5,7 @@ Este repositorio contiene la solución del ejercicio práctico para Data Enginee
 
 ## Descripción del ejercicio
 
-El ejercicio consiste en resolver una serie de preguntas relacionados con el procesamiento de datos utilizando PySpark y Spark SQL.
+El ejercicio consiste en resolver una serie de preguntas relacionados con el procesamiento de datos utilizando SQL y PySpark.
 
 ## Solución
 
